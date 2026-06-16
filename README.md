@@ -27,8 +27,8 @@
 * **Docker:** Подготовлен `Dockerfile` (базовый образ `python:3.10-slim`) для контейнеризации приложения и поднятия локального сервера предсказаний.
 
 ---
-## 👤 Автор проекта
+## Автор проекта
 * **Юлия Прохорова** — Data Analyst / Junior ML-Engineer
 * **Email:** prohorova_j@inbox.ru
 * **Телефон:** +7 988 (588-60-00)
-* **Портфолио:** [💼 Резюме, официальные сертификаты и BI-дашборды на Google Диске](https://google.com)
+* **Портфолио:** [💼 Резюме, официальные сертификаты и BI-дашборды на Google Диске](https://drive.google.com/drive/folders/1S-C4RRe0KDo3VYcOqItpZjX-_lAHJ7Zc?usp=drive_link)
