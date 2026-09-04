@@ -1,7 +1,12 @@
 # Credit Risk Scoring Pipeline
 
 Big Data ML-пайплайн для кредитного скоринга с memory-efficient обработкой данных и автоматической оптимизацией модели
-**пиковое потребление RAM снижено примерно в 6 раз — с 12 ГБ до 2 ГБ, а ROC-AUC модели после оптимизации достиг 0.7607.**
+
+> **RAM:** 12 GB → **2 GB** ↓ ~6×  
+> **ROC-AUC:** **0.7607** ↑
+>
+> Пиковое потребление RAM снижено примерно в **6 раз** — с **12 ГБ до 2 ГБ**,  
+> при этом после оптимизации модели достигнут **ROC-AUC = 0.7607**.
 
 **Юлия Прохорова** — [Junior ML-Engineer](https://drive.google.com/file/d/1ZFfHcW5vbHKpd-NpLdoP5dBWfIYwGYzE/view?usp=drive_link)
 
